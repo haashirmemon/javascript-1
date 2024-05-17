@@ -48,7 +48,7 @@ var timer = setInterval(() => {
     }
     main.style.backgroundColor= boxes[selected].style.backgroundColor 
     boxes[selected].style.border = "4px solid purple"
-}, 2000)
+}, 1000)
 
 //  console.log(boxes);
 
